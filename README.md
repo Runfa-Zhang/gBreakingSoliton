@@ -10,11 +10,22 @@ Bilinear Transformation &amp; 5 examples to get analitical solution of gBS equat
 神经网络求解偏微分方程解析解的方法：
 Neural network method for solving analytical solution：
 
-[1]R. F. Zhang, M. C. Li, M. Albishari, F. C. Zheng, Z. Z. Lan, "[Generalized lump solutions, classical lump solutions and rogue waves of the (2+1)-dimensional Caudrey-Dodd-Gibbon-Kotera-Sawada-like equation](https://doi.org/10.1016/j.amc.2021.126201)", Appl. Math. Comput. 403 (2021) 126201
-[2]R. F. Zhang, M. C. Li, H. M. Yin, "[Rogue wave solutions and the bright and dark solitons of the (3+1)-dimensional Jimbo–Miwa equation](https://doi.org/10.1007/s11071-020-06112-5)",Nonlinear Dyn. 103 (2021) 1071–1079.
-[3]R. F. Zhang, S. D. Bilige, "[Bilinear neural network method to obtain the exact analytical solutions of nonlinear partial differential equations and its application to p–gBKP equatuon](https://doi.org/10.1007/s11071-018-04739-z)", Nonlinear Dyn. 95 (2019) 3041–3048.
+[1]R.F. Zhang, M.C. Li, J.Y. Gan, Q. Li, Z.Z. Lan, "[Novel trial functions and rogue waves of generalized breaking soliton equation via bilinear neural network method](https://doi.org/10.1016/j.chaos.2021.111692), Chaos, Solitons & Fractals 154 (2022) CSF"
+[2]R.F. Zhang, M.C. Li, M. Albishari, F.C. Zheng, Z.Z. Lan, "[Generalized lump solutions, classical lump solutions and rogue waves of the (2+1)-dimensional Caudrey-Dodd-Gibbon-Kotera-Sawada-like equation](https://doi.org/10.1016/j.amc.2021.126201)", Appl. Math. Comput. 403 (2021) 126201
+[3]R.F. Zhang, M.C. Li, H.M. Yin, "[Rogue wave solutions and the bright and dark solitons of the (3+1)-dimensional Jimbo–Miwa equation](https://doi.org/10.1007/s11071-020-06112-5)",Nonlinear Dyn. 103 (2021) 1071–1079.
+[4]R.F. Zhang, S.D. Bilige, "[Bilinear neural network method to obtain the exact analytical solutions of nonlinear partial differential equations and its application to p–gBKP equatuon](https://doi.org/10.1007/s11071-018-04739-z)", Nonlinear Dyn. 95 (2019) 3041–3048.
 ```
 ```
+@article{ZRF2022CSF,
+author = {Run-Fa Zhang and Ming-Chu Li and Jian-Yuan Gan and Qing Li and Zhong-Zhou Lan},
+title = {Novel trial functions and rogue waves of generalized breaking soliton equation via bilinear neural network method},
+journal = {Chaos, Solitons & Fractals},
+volume = {154},
+pages = {111692},
+year = {2022},
+#doi = {https://doi.org/10.1016/j.chaos.2021.111692},
+}
+
 @Article{ZRF2021AMC,
   author  = {Run Fa Zhang and Ming Chu Li and Mohammed Albishari and Fu Chang Zheng and Zhong Zhou Lan},
   title   = {{Generalized lump solutions, classical lump solutions and rogue waves of the (2+1)-dimensional Caudrey-Dodd-Gibbon-Kotera-Sawada-like equation}},
